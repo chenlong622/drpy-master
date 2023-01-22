@@ -2,9 +2,9 @@ muban.mxpro.二级.desc = '.module-info-item:eq(-1)&&Text;;;.module-info-item-co
 var rule = {
     title:'555影视[飞]',
     模板:'mxpro',
-    // host:'https://www.555dy.app',
-    // host:'https://www.555yy2.com',
-    // host:'https://www.555ys1.com',
+    // host:'https://www.555dyy1.app',
+    // host:'https://www.555dyy2.com',
+    // host:'https://www.555dyy3.com',
     host:'https://www.555pian.com',
     // url:'/vodshow/fyclass--------fypage---/pjax/YES.html',
 	url:'/vodshow/fyfilter/pjax/YES.html',
