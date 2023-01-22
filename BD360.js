@@ -1,6 +1,6 @@
 var rule={
-title:'BD360',
-host:'https://bd360.xyz',
+title:'nep',
+host:'https://nep.ink/',
 url:'/vodshow/fyclass--time------fypage---.html',
 searchUrl:'/vodsearch/-------------.html?wd=**',
 searchable:2,//是否启用全局搜索,
