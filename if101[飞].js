@@ -1,6 +1,6 @@
 var rule={
-    title:'if101[飞]',
-    host:'https://olevod.live',
+    title:'1080p',
+    host:'https://1080p.tv',
     // homeUrl:'/',
 	url:'/index.php/vod/show/id/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
@@ -31,7 +31,7 @@ var rule={
     二级:{"title":"h2.hl-dc-title&&Text;.hl-full-box&&ul&&li:eq(6) a&&Text","img":".hl-lazy&&data-original","desc":";;;.hl-full-box&&ul&&li:eq(2)&&Text;.hl-full-box&&ul&&li:eq(3)&&Text","content":".hl-content-text&&Text","tabs":".hl-from-list&&li","lists":".hl-plays-list:eq(#id) li"},
 
     searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
-	detailUrl:'https://olevod.live/index.php/vod/detail/id/fyid.html', //非必填,二级详情拼接链接
+	detailUrl:'https://1080p.tv/index.php/vod/detail/id/fyid.html', //非必填,二级详情拼接链接
     // 搜索:'.hl-list-wrap&&.hl-item-pic;*;*;*;*',
 	搜索:'json:list;name;pic;;id',
 }
